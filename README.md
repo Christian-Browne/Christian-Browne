@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Christian:
+## 👋 Hi, I'm Christian...
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript & React
 - 💻 Portfolio: https://www.christianbrowne.me
