@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Christian...
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning TypeScript
 - 💻 Portfolio: https://www.christianbrowne.me
   
 ## 📕 Languages:
