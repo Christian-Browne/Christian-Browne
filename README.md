@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Christian...
+# 👋 Hi, I'm Christian Browne
+I'm a frontend developer that specializes in building apps and websites
+### Languages
+TypeScript, JavaScript, Node JS, HTML, CSS
+### Tools & Technologies
+React, Next.js, Redux, Bootstrap, Material UI, Sass
+
 
 ### 🎈 Socials:
 <a href="mailto:christianbrowne33@gmail.com">
