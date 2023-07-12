@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Christian Browne
-I'm a frontend developer that specializes in building apps and websites
-### Languages
-TypeScript, JavaScript, Node JS, HTML, CSS
-### Tools & Technologies
-React, Next.js, Redux, Bootstrap, Material UI, Sass
+I'm a backend software engineer that specializes in building real-world web applications
+
+### Programming Languages & Web Technologies
+Java, SQL, Python, JavaScript, TypeScript,
+### Database & Frameworks: 
+Spring Boot, PostgreSQL, JUnit, Hibernate, JDBC
+### Cloud & Web Technologies: 
+Amazon AWS, Docker, Node JS, Express, React.js, Next.js, Git, Jira, HTML, CSS
 
 
 ### 🎈 Socials:
