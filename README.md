@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Christian Browne
-I'm a backend software engineer that specializes in building real-world web applications
+I'm a backend software engineer that specializes in building high performant real-world web applications
 
-### Programming Languages & Web Technologies
+- 👷🏾‍♂️ I'm currently building a job-tracking application
+- 🌱 I'm currently learning AWS, Azure, & Redis
+
+### 💻 Programming Languages & Web Technologies
 Java, SQL, Python, JavaScript, TypeScript,
-### Database & Frameworks: 
+### 💾 Database & Frameworks: 
 Spring Boot, PostgreSQL, JUnit, Hibernate, JDBC
-### Cloud & Web Technologies: 
+### ☁️ Cloud & Web Technologies: 
 Amazon AWS, Docker, Node JS, Express, React.js, Next.js, Git, Jira, HTML, CSS
 
 
