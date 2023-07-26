@@ -9,7 +9,7 @@ Java, SQL, Python, JavaScript, TypeScript,
 ### 💾 Database & Frameworks: 
 Spring Boot, PostgreSQL, JUnit, Hibernate, JDBC
 ### ☁️ Cloud & Web Technologies: 
-Amazon AWS, Docker, Node JS, Express, React.js, Next.js, Git, Jira, HTML, CSS
+Amazon AWS, Docker, Node JS, Express, React.js, Git, Jira, HTML, CSS
 
 
 ### 🎈 Socials:
