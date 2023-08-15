@@ -2,7 +2,7 @@
 I'm a backend software engineer that specializes in building high performant real-world web applications
 
 - 👷🏾‍♂️ I'm currently building a job application tracker using Spring Boot
-- 🌱 I'm currently learning AWS, Rust, & Redis
+- 🌱 I'm currently learning Golang & HTMX
 
 ### 💻 Programming Languages & Web Technologies
 Java, SQL, Python, JavaScript, TypeScript,
