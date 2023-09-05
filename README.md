@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christian Browne
 I'm a backend software engineer that specializes in building high performant real-world web applications
 
-- 👷🏾‍♂️ I'm currently building a job application tracker using Spring Boot
+- 👷🏾‍♂️ I'm currently building a voice note app using Java and Spring Boot
 - 🌱 I'm currently learning Golang & HTMX
 
 ### 💻 Programming Languages & Web Technologies
